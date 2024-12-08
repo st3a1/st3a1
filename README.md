@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**st3a1/st3a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- My name is **Andrey** im from Volgograd/Russia
+- I want to make the world a little better, so I make my projects public and open source
+- I am interested in the structure of supercell games, so I make software for them
+- Im also interested in reverse engineering and ordinary, simple projects!
+- I like & know these programming langs:
+<div>
+  <img height="20px" src="rust.png"> Rust |
+  <img height="20px" src="js.png">  JavaScript |
+  <img height="20px" src="njs.png">  NodeJS |
+  <img height="20px" src="sharp.png">  C# |
+  <img height="20px" src="python.png">  Python |
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Socials
+- Feel free to message me >>
+[![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/thestealdev)
+
+### My Stats
+
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=st3a1&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st3a1&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+</div>
