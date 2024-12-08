@@ -3,8 +3,8 @@
 
 - My name is **Andrey** im from Volgograd/Russia
 - I want to make the world a little better, so I make my projects public and open source
-- I am interested in the structure of supercell games, so I make software for them
-- Im also interested in reverse engineering and ordinary, simple projects!
+- I am interested in the structure of supercell games, so я пидарас
+- I love reverse engenering , I fuck every time with IDA bcs потому что иди нахуй
 - I like & know these programming langs:
 <div>
   <img height="20px" src="rust.png"> Rust |
